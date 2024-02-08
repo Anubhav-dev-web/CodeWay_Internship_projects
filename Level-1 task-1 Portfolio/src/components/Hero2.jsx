@@ -46,7 +46,7 @@ const Hero2 = () => {
           </button>
         </div>
         <div className="lg:w-1/2 pr-5">
-          {/* Replace the following URL with your actual image URL */}
+          {/*Image section for my image for now it's a boy on chair and table*/}
           <img
             src={selfpro.image1}
             alt="Portfolio Image"
